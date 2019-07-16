@@ -1,0 +1,45 @@
+{
+  "name": "random-quote-machine",
+  "version": "1.0.0",
+  "description": "Random Quote Machine Project for freeCodeCamp",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "git": "^0.1.5",
+    "gulp-rename": "^1.4.0",
+    "postcss": "^7.0.17",
+    "rename": "^1.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "autoprefixer": "^9.6.1",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimFau/random-quote-machine.git"
+  },
+  "keywords": [
+    "freeCodeCamp",
+    "random",
+    "quote",
+    "generator"
+  ],
+  "author": "Tim Fau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimFau/random-quote-machine/issues"
+  },
+  "homepage": "https://github.com/TimFau/random-quote-machine#readme"
+}
