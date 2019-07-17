@@ -47,6 +47,11 @@ button {
     background: #3584b321; }
   button:focus {
     outline: none; }
+  @media screen and (max-width: 660px) {
+    button {
+      width: 100%; }
+      button#new-quote {
+        border-right: 0; } }
 
 button a {
   text-decoration: none; }
