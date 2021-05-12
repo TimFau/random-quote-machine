@@ -7,7 +7,7 @@
     "browser-sync": "^2.26.7",
     "git": "^0.1.5",
     "gulp-rename": "^1.4.0",
-    "postcss": "^7.0.17",
+    "postcss": "^8.2.10",
     "rename": "^1.0.4"
   },
   "devDependencies": {
